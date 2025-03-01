@@ -1,0 +1,49 @@
+Username: kaaaaiiii
+Display: Kaii
+ID: 1071835963547992084
+Role: GENERAL MANGER
+
+Username: mute.shh
+Display: mute
+ID: 985699361352716349
+Role: Executive Councl
+
+Username: champienseif
+Display: Seif
+ID: 983445717353902130
+Role: Executive Councl
+
+Username: _box01_
+Display: 📦
+ID: 816274094667333662
+Role: CO-OWNER
+
+Username: insanityv20059
+Display: insanitymc
+ID: 917492497415041025
+Role: INVESTIGATIONS
+
+Username: fwcrimson_
+Display: NoVa Gh0ul
+ID: 907712767644020787
+Role: INVESTIGATIONS
+
+Username: xxvoidicxx
+Display: 🔮 𝓥𝓸𝓲𝓭𝓲𝓬 🔮
+ID: 719930539280433232
+Role: INVESTIGATIONS
+
+Username: 
+Display:
+ID:
+Role:
+
+Username: 
+Display:
+ID:
+Role:
+
+Username: 
+Display:
+ID:
+Role:
