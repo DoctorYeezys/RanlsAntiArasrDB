@@ -3,8 +3,8 @@
 - needs all staff members from | Realm Hub, Polar AC, Aras |
 -------------------------------------------------------
 **| Anti Aras Bot V1.0.0 Beta |**
-|               **Anti Aras**                |     |
-| ------------------------------------------ |     |
+|               **Anti Aras**                |     
+| ------------------------------------------ |     
 | Open source                                | ⚠️  |
 | Free                                       | ✅  |
 | Web-verification                           | ⚠️  |
