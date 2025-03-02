@@ -5,7 +5,8 @@
 **| Anti Aras Bot V1.0.0 Beta |**
 |               **Anti Aras**                |     
 | ------------------------------------------ |    
-| Open source-⚠️                                                         
+|DataBase source-✅
+|Open source-⚠️                                                         
 | Free-✅                                                                
 | Web-verification-⚠️
 | 99.99% uptime                          
