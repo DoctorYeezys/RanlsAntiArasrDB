@@ -9,7 +9,7 @@
 |Open source-⚠️                                                         
 | Free-✅                                                                
 | Web-verification-⚠️
-| 99.99% uptime                          
+| 99.99% uptime - ✅                        
 | Detects Alt-⚠️       
 | Logs DB-Users-✅                       
 | Bans All Users in DB-✅                     
